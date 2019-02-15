@@ -1,3 +1,3 @@
 # beanegg.github.io
 
-#E G G
+# E G G
